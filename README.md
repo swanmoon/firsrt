@@ -1,3 +1,3 @@
-# firsrt
+# first
 
 this is a read me file
